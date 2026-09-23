@@ -7,7 +7,7 @@
 - Install Firecube using the [installation guide](https://eumetsat.github.io/firecube/latest/quickstart/installation/). Confirm the environment with `firecube --version`.
 - Bring a dataset you want to convert to a datacube, preferably in NetCDF.
 - Please note: You will work on your own laptop, in your own compute environment.
-- If you use AI coding assistants, you can use the Firecube LLM skills, which are available for the event.
+- If you use AI coding assistants, install the [Firecube skills](skills/README.md) (`firecube` and `eumdac`) in your agent; the README there has per-agent instructions.
 
 ## Agenda
 

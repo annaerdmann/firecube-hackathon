@@ -21,6 +21,10 @@
 | 10:30–12:00 | Create your own plugin | Progress through the milestones below |
 | 12:00–12:30 | Demonstrations, feedback, and awards | Short demonstration of your result; awards for the winners and feedback |
 
+## Feedback Slido (Join and give as much valuable feedback you can to become one of the two winners of today)
+
+![alt text](assets/image.png)
+
 ## Run the Firecube quickstart
 
 Run a complete example plugin from installation to a Zarr cube before building your own plugin.
